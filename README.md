@@ -1,4 +1,4 @@
-# Coffee-DB-SQL-Query
+# Coffee_sqldatabse_query
 
 Coffee Database Management System
 A comprehensive SQL database system for managing coffee shop operations, including shops, employees, locations, and suppliers.
@@ -17,11 +17,9 @@ Suppliers: Vendor and supply chain management
 
 # Entity Relationship:
 
-Each shop has multiple employees (1:N relationship)
-
-Each shop is located at one location (1:1 relationship)
-
-Each shop can work with multiple suppliers (N:M relationship through shop_suppliers junction table)
+- Each shop has multiple employees (1:N relationship)
+- Each shop is located at one location (1:1 relationship)
+- Each shop can work with multiple suppliers (N:M relationship through shop_suppliers junction table)
 
 # Database Schema
 Table Definitions
