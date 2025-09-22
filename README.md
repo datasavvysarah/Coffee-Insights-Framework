@@ -1,4 +1,4 @@
-# Coffee_sqldatabse_query
+# Coffee Data Pipeline
 
 Coffee Database Management System: 
 A comprehensive SQL database system for managing coffee shop operations, including shops, employees, locations, and suppliers.
